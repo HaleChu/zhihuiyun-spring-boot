@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ZhySystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ZhySystem-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ZhySystem:war exploded" />
+    </root>
+  </artifact>
+</component>
